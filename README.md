@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DongpilJo&fontSize=70&animation=twinkling)
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center"> Tech Stack </h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -30,7 +28,7 @@
 <br>
 
 
-<h3 align="center"> < Me > </h3>
+<h3 align="center"> Contect </h3>
 <p align="center">
   <a href="https://www.instagram.com/east_filmm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/east_filmm/"/></a>&nbsp
   <a href="mailto:ehdvlf001@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ehdvlf001@naver.com"/></a>
