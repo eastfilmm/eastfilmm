@@ -29,8 +29,8 @@
   </div>
 
 <div align=cenger>
-	[![Dongpil Jo's github stats](https://github-readme-stats.vercel.app/api?username=eastfilmm)](https://github.com/anuraghazra/github-readme-stats)
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastfilmm&langs_count=4&layout=compact&theme=white)](https://eastfilmm.github.io/)
+[![Dongpil Jo's github stats](https://github-readme-stats.vercel.app/api?username=eastfilmm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastfilmm&langs_count=4&layout=compact&theme=white)](https://eastfilmm.github.io/)
 </div>
 <br>
 
