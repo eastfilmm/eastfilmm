@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DongpilJo&fontSize=70&animation=twinkling)
 
+## Activity
+* Google Developer Student Community 2기 Member /2022.09 ~ 2023.07
+* Google Developer Student Community 3기 Core(Web-Frontend&Manage) / 2023.09 ~
+* 멋쟁이 사자 11기 Member / 2023.03 ~
+* 경북대학교 CSE 홍보단 / 2022.09 ~
+  
 <h3 align="center"> Tech Stack </h3>
 
 <p align="center"> Techs that I've used at least once </p>
