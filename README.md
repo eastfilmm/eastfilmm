@@ -28,9 +28,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feastfilmm&count_bg=%23020715&title_bg=%23020715&icon=openstreetmap.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
   </div>
 
-[![Dongpil Jo's github stats](https://github-readme-stats.vercel.app/api?username=eastfilmm)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastfilmm&langs_count=4&layout=compact&theme=white)](https://eastfilmm.github.io/)
-  
+<div align=cenger>
+	[![Dongpil Jo's github stats](https://github-readme-stats.vercel.app/api?username=eastfilmm)](https://github.com/anuraghazra/github-readme-stats)
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eastfilmm&langs_count=4&layout=compact&theme=white)](https://eastfilmm.github.io/)
+</div>
 <br>
 
 
