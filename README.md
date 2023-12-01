@@ -3,7 +3,8 @@
 ## Activity
 * Google Developer Student Community 2기 Member /2022.09 ~ 2023.07
 * Google Developer Student Community 3기 Core(Web-Frontend&Manage) / 2023.09 ~
-* 멋쟁이 사자 11기 Member / 2023.03 ~
+* 멋쟁이 사자처럼 11기 Member / 2023.03 ~
+* 멋쟁이 사자처럼 12기 운영진 / 2024 ~
 * 경북대학교 CSE 홍보단 / 2022.09 ~
   
 <h3 align="center"> Tech Stack </h3>
@@ -11,7 +12,6 @@
 <p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/vite-1572B6?style=flat-square&logo=vite3&logoColor=white"/></a>&nbsp
