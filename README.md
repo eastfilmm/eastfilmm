@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=DongpilJo&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Dongpil Jo&fontSize=70&animation=twinkling)
 
 ## Activity
 * Google Developer Student Community 2기 Member /2022.09 ~ 2023.07
