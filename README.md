@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dongpil Jo&fontSize=70" />
+
 ## INFO
 * Frontend 개발자를 꿈꾸는 조동필 입니다.
 
