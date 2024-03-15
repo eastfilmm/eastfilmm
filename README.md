@@ -1,4 +1,4 @@
-[<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Dongpil Jo&fontSize=70" />](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Input%20text&textBg=false&fontSize=80&fontAlignY=41)
+https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Dongpil%20Jo&textBg=false&fontSize=80&fontAlignY=41
 
 ## INFO
 * Frontend 개발자를 꿈꾸는 조동필 입니다.
