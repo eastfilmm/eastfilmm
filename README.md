@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Dongpil%20Jo&textBg=false&fontSize=80&fontAlignY=41
+![header]https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Dongpil%20Jo&textBg=false&fontSize=80&fontAlignY=41
 
 ## INFO
 * Frontend 개발자를 꿈꾸는 조동필 입니다.
