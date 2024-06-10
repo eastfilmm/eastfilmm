@@ -15,7 +15,7 @@
 * SmileGate 서버 개발캠프(온라인) / 2024.01 ~ 2024.02
 * 멋쟁이사자 공식 홈페이지 제작 TF 2기 / 2024.03 ~
 
-## Experience
+## Award & Experience
 * ABB 아이디어톤 본선진출 | Leader&&Frontend
 * 2023 대구를 빛내는 SW해커톤 우수상 | Leader&Frontend
 * 2023 대경권 공공데이터 경진대회 최우수상 | Leader&Frontend
@@ -25,6 +25,7 @@
 * 2024 경북대학교 6개 개발동아리 연합 해커톤 운영진
 
 <br>
+<hr>
 
 <h3 align="center"></h3>
 
