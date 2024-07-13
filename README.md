@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Dongpil%20Jo&textBg=false&fontSize=80&fontAlignY=41)
 
 ## INFO
-* Frontend 개발자를 꿈꾸는 조동필 입니다.
+* 끊임 없는 성장하는 Frontend 개발자가 되고싶은 조동필 입니다.
 
 ## Activity
 * Google Developer Student Community 2기 Member | 2022.09 ~ 2023.07
@@ -24,6 +24,10 @@
 * 2023 영남권 GDSC(동아대, 부경대, 동의대, 한국해양대, 경북대) 연합 아이디어톤 개최 및 TF 참여
 * 2024 CES 청년 글로벌 개척단 참여 및 부스 운영
 * 2024 경북대학교 6개 개발동아리 연합 해커톤 운영진
+
+## volunteer
+* 대구 산격중학교 코딩교육 | 2024.03 ~ 2024.06
+* 대구 경상중학교 컴퓨터교육 | 2024.04 ~
 
 <br>
 <hr>
