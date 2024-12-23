@@ -2,6 +2,7 @@
 
 ## INFO
 * 끊임 없는 성장하는 Frontend 개발자가 되고싶은 조동필 입니다.
+* (주)미리디 fe 개발자 | 2025.01.20. ~
 
 ## Activity
 * Google Developer Student Community 2기 Member | 2022.09 ~ 2023.07
@@ -18,7 +19,7 @@
 
 ## Internship
 * 인도 LG 소프트 인디아 인턴십 프로그램 | 2023.07.01 ~ 2023.07.31
-* 미리디 ICT 인턴십 프로그램 | 2024.09.02 ~ 2024.12.20
+* (주)미리디 ICT 인턴십 프로그램 | 2024.09.02 ~ 2024.12.20
 
 ## Award & Experience
 * ABB 아이디어톤 본선진출 | Leader&&Frontend
